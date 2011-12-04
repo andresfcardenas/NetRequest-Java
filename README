@@ -1,0 +1,19 @@
+Es simple, solo compilas el programita, lo haces correr, 
+escribes la web con la que quieressaturar la red, escojes 
+los milisegundos para saturar la red "lo ideal esta entre 
+400 y 1000" y le das en el botonsito llamado start, para 
+para la app debes dar en el botonsito llamado stop.
+
+HARDWARE SOFTWARE Y CONDICIONES EN QUE HA SIDO PROBADO:
+
+Esta miniaplicacion ha sido probada con:
+
+* Targeta de red DWA-125 con chipset RALINK Ver H/W: A1.
+* En kernel Linux 2.6.38.
+* Probado en Fedora 15 y Ubuntu 10.10 y 11.04.
+* Probado solo en conecciones con encriptado WEP.
+
+Nota: Recuerda que solo sirve estando conectado por wireless,
+ademas si sirve con mas hardware, solo haganlo saber y agregamos
+el hardware, si tambien sirve en otras versiones de kernel y en 
+otras distros haganmelo saber y agregamos los detalles al README
